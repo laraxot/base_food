@@ -4,3 +4,6 @@
 [submodule "laravel/Modules/Job"]
 	path = laravel/Modules/Job
 	url = http://github.com/laraxot/module_job.git
+[submodule "bashscripts"]
+	path = bashscripts
+	url = http://github.com/laraxot/bashscripts.git
