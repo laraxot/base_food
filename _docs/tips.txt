@@ -1,0 +1,15 @@
+https://dev.to/readymadecode/how-to-optimize-database-queries-in-laravel-3726
+
+
+https://harrk.dev/more-laravel-optimisation-tricks/
+
+https://codebrisk.com/blog/some-laravel-eloquent-tips-and-tricks-for-code-optimization
+
+
+https://laravel-code.tips/
+
+
+
+
+
+

@@ -1,2 +1,7 @@
 https://github.com/itsgoingd/clockwork
 
+DB::enableQueryLog();
+dd(DB::getQueryLog());
+
+
+

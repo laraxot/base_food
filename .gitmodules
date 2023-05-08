@@ -1,0 +1,6 @@
+[submodule "laravel/Modules/UI"]
+	path = laravel/Modules/UI
+	url = http://github.com/laraxot/module_ui.git
+[submodule "laravel/Modules/Job"]
+	path = laravel/Modules/Job
+	url = http://github.com/laraxot/module_job.git
